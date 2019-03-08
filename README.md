@@ -1,6 +1,6 @@
 # Predict-Future-Sales-Challenge
 
-Given the kaggle dataset, the task in hand is to try forecasting the total amount of products sold
+Given the kaggle dataset, the task was to try forecasting the total amount of products sold
 in a set of shops. The dataset was provided by a Russian Software Firm - 1C Company. Applying machine
 learning techniques, I tried to predict the sales of the product shop-wise by training our machine learning
 classifiers with the data provided and test them for accuracy.
