@@ -11,17 +11,17 @@ I adopted basic data cleaning methods before training the classifier. Also I tri
 missing values, removing duplicate values, concatenating the data to produce meaningful
 structure to process the data.
 
-##LINEAR REGRESSION MODEL 
+## LINEAR REGRESSION MODEL 
 To understand the simple supervised approach I used a basic
 classification technique – a linear regression model to train the classifier which assumes that
 there is a linear relationship between the input attributes and the class.
 
-##Light GBM MODEL 
+## Light GBM MODEL 
  This is a grading boosting network that employs tree-based algorithms for
 classification and learning. Light GBM is a new algorithm and has gained attention due to it’s
 lightening speed execution and lower memory consumption.
 
-##LSTM 
+## LSTM 
 Long short-term memory networks are a specialized type of recurrent neural network
 (RNN)—a neural network architecture generally used for the modeling sequential data which
 come in handy with our scenario. These tend retain information for long periods of time,
